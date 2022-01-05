@@ -1,0 +1,1 @@
+This is new Fature 2 file created in development branch.
